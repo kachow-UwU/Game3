@@ -1,0 +1,16 @@
+[remap]
+
+importer="MagicaVoxel.With.Extensions"
+type="Mesh"
+path="res://.import/Carrot.vox-6deb34578ae8daca3875d288b680aee2.mesh"
+
+[deps]
+
+source_file="res://VOX/Carrot.vox"
+dest_files=[ "res://.import/Carrot.vox-6deb34578ae8daca3875d288b680aee2.mesh" ]
+
+[params]
+
+Scale=0.1
+GreedyMeshGenerator=true
+SnapToGround=false

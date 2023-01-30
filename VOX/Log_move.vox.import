@@ -1,0 +1,16 @@
+[remap]
+
+importer="MagicaVoxel.With.Extensions"
+type="Mesh"
+path="res://.import/Log_move.vox-4798e7fcd9110fbe1d8930edbadca090.mesh"
+
+[deps]
+
+source_file="res://VOX/Log_move.vox"
+dest_files=[ "res://.import/Log_move.vox-4798e7fcd9110fbe1d8930edbadca090.mesh" ]
+
+[params]
+
+Scale=0.1
+GreedyMeshGenerator=true
+SnapToGround=false
